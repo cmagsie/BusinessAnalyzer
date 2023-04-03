@@ -1,0 +1,3 @@
+Terminal: Navigate into the BusinessAnalyzer folder. Paste this command to compile and run the application:
+
+javac -d classes -cp src src/BusinessAnalyzer.java && java -cp classes BusinessAnalyzer Registered_Business_Locations_-_San_Francisco.csv AL
